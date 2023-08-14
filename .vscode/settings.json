@@ -1,0 +1,19 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.sortOrder": "type",
+    "files.insertFinalNewline": true,
+    "notebook.lineNumbers": "on",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportUnusedExpression": "none"
+    },
+    "python.analysis.typeCheckingMode": "strict",
+    "python.languageServer": "Pylance",
+    "python.terminal.activateEnvironment": false,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "workbench.colorTheme": "Default Light+"
+}
