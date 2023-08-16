@@ -1,6 +1,13 @@
 # HackathonEmbu2023
 Material for the  2023 Hackathon Workshop on Computational Modeling to Unleash the Computational Power of Young African Researchers, Embu, Kenya
 
+https://innovateaihealthlab.co.ke/
+
+https://innovateaihealthlab.co.ke/wp-content/uploads/2023/07/InnovateAIHealthLab-e-flier-2.pdf
+
+https://allevents.in/embu/computational-modeling-to-unleash-the-computational-power-of-young-african-researchers/200025143939812
+
+
 ## Setup
 
 - Visual Studio Code or plain jupyter notebooks?
