@@ -27,3 +27,13 @@ https://allevents.in/embu/computational-modeling-to-unleash-the-computational-po
 - Plan modelling course
 - Isolate required knowledge
 - Write cheat sheet & introductory course
+
+
+## Further resources
+
+- Python books
+  -
+- Databases
+  - kegg, chebi
+  - bionumbers
+  - metacyc
