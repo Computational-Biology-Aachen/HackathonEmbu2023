@@ -10,3 +10,4 @@ seaborn~=0.12
 tqdm~=4.65
 typing-extensions~=4.7
 widgetsnbextension~=4.0
+openpyxl~=3.1
