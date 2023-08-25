@@ -3,3 +3,8 @@
 data/
 img-dev/
 .ipynb_checkpoints/
+
+# ignore datasets
+assets/iris.csv
+assets/titanic.csv
+assets/penguins.csv
